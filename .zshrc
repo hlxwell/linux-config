@@ -95,7 +95,7 @@ alias ss='./script/server'
 alias sc='ruby script/console'
 alias chownm='sudo chown -R helixing:staff .'
 
-## deploy asics #############
+## deploy #############
 alias deploy_production='cap deploy:migrations PRODUCTION=1'
 alias deploy_staging='cap deploy:migrations'
 #############################
