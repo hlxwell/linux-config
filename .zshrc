@@ -1,6 +1,6 @@
 ## Mine
-export AMAZON_ACCESS_KEY_ID="AKIAIM4DOXXND43IZSUA"
-export AMAZON_SECRET_ACCESS_KEY="3xtvcH02UqH1NiGglmBo6k0D+O0s84TpCv4A6w+A"
+export AMAZON_ACCESS_KEY_ID="your access key id"
+export AMAZON_SECRET_ACCESS_KEY="your access key"
 
 export JAVA_HOME="/System/Library/Frameworks/JavaVM.framework/Home"
 #export EC2_PRIVATE_KEY="$(/bin/ls $HOME/.ec2/pk-*.pem)"
